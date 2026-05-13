@@ -24,44 +24,10 @@ ElDiaBot es un bot automatizado que:
 - **RSS Parser** — lectura del feed RSS
 - **Cron / setInterval** — ejecución periódica
 
----
+--- token de bot botfather
 
-## 🚀 Instalación
+## 🚀 Instalación en telegram
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/zzever/Eldiabot.git
-   cd Eldiabot
-   ```
-
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-
-3. Crea un archivo `.env` con tu token de bot de Telegram:
-   ```env
-   BOT_TOKEN=tu_token_aqui
-   CHANNEL_ID=@eldia_laopiniondetenerife
-   ```
-
-4. Inicia el bot:
-   ```bash
-   node index.js
-   ```
-
----
-
-## ⚙️ Configuración
-
-| Variable        | Descripción                              |
-|-----------------|------------------------------------------|
-| `BOT_TOKEN`     | Token del bot obtenido desde @BotFather  |
-| `CHANNEL_ID`    | ID o username del canal de Telegram      |
-| `RSS_URL`       | URL del feed RSS a monitorizar           |
-| `INTERVAL`      | Intervalo de comprobación (en minutos)   |
-
----
 
 ## 📄 Licencia
 

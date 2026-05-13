@@ -29,6 +29,4 @@ ElDiaBot es un bot automatizado que:
 ## 🚀 Instalación en telegram
 
 
-## 📄 Licencia
 
-MIT © [zzever](https://github.com/zzever)
